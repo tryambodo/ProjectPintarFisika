@@ -24,9 +24,15 @@
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="com.topitideas.splashscreen.MainActivity" />
+
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <activity android:name=".Kelas10Activity" />
+        <activity
+            android:name=".DetailActivityKelas10"
+            android:label="@string/title_activity_detail_activity_kelas10"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

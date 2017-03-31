@@ -1,5 +1,6 @@
 package id.sch.smktelkom_mlg.project2.xirpl305091429.pintarfisikasmasmk;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
@@ -79,21 +80,20 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_home) {
             fragment = new FragmentHome();
             setTitle("Home");
+            getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
         } else if (id == R.id.nav_kelas10) {
-            fragment = new FragmentKelas10();
-            setTitle("Fisika Kelas 10");
+            Intent intent = new Intent(this, Kelas10Activity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_kelas11) {
-            fragment = new FragmentKelas11();
-            setTitle("Fisika Kelas 11");
+
         } else if (id == R.id.nav_kelas12) {
-            fragment = new FragmentKelas12();
-            setTitle("Fisika Kelas 12");
+
         } else if (id == R.id.nav_aboutus) {
             fragment = new FragmentAboutUs();
             setTitle("About My Group");
         }
 
-        getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
 

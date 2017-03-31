@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="places_kelas10">
+        <item>Besaran Dan Satuan</item>
+        <item>Gerak Lurus</item>
+        <item>Hukum Newton</item>
+        <item>Memadu Gerak</item>
+        <item>Gravitasi</item>
+        <item>Usaha Dan Energi</item>
+        <item>Momentum</item>
+        <item>Fluida</item>
+        <item>Gelombang Bunyi</item>
+        <item>Suhu Dan Kalor</item>
+        <item>Listrik Statis</item>
+    </string-array>
+    <string-array name="desc_kelas10">
+        <item>The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+    </string-array>
+    <array name="places_picture">
+        <item>@drawable/besaransatuan</item>
+        <item>@drawable/geraklurus</item>
+        <item>@drawable/hukumnewton</item>
+        <item>@drawable/hukumnewton</item>
+        <item>@drawable/geraklurus</item>
+        <item>@drawable/usahaenergi</item>
+        <item>@drawable/momentumimpulstumbukan</item>
+        <item>@drawable/fluida</item>
+        <item>@drawable/gelombangbunyi</item>
+        <item>@drawable/suhudankalor</item>
+        <item>@drawable/listrikstatis</item>
+    </array>
+</resources>
