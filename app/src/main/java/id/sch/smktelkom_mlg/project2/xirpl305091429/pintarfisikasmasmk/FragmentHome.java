@@ -50,7 +50,14 @@ public class FragmentHome extends Fragment {
                 startActivity(intent);
             }
         });
-
+        ImageButton d = (ImageButton) activityView.findViewById(R.id.about_us);
+        d.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), AboutUsActivity.class);
+                startActivity(intent);
+            }
+        });
         return activityView;
     }
 

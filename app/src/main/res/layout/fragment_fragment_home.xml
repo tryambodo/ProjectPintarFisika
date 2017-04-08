@@ -69,14 +69,14 @@
         android:layout_marginTop="380dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_buttonkelas10" />
+        android:src="@drawable/ic_buttonkelas12" />
 
     <ImageButton
-        android:id="@+id/nav_about_us"
+        android:id="@+id/about_us"
         android:layout_marginLeft="200dp"
         android:layout_marginTop="380dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_buttonkelas11" />
+        android:src="@drawable/ic_aboutus" />
 
 </RelativeLayout>
