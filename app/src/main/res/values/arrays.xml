@@ -29,19 +29,17 @@
         <item>Listrik Statis</item>
     </string-array>
     <string-array name="desc_kelas10">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
-        </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
+        <item>Besaran adalah segala sesuatu yang dapat diukur atau dihitung, dinyatakan dengan angka dan mempunyai satuan.</item>
+        <item>Gerak lurus adalah gerak suatu obyek yang lintasannya berupa garis lurus.</item>
+        <item>Hukum Newton adalah hukum tentang gaya pada suatu benda yang di temukan dan dikemukakan oleh Sir Isaac Newton.</item>
+        <item>Gerak lurus beraturan (GLB) adalah gerak lurus suatu objek, di mana dalam gerak ini kecepatannya tetap dikarenakan tidak adanya percepatan, sehingga jarak yang ditempuh dalam gerak lurus beraturan adalah kelajuan kali waktu.</item>
+        <item>Gravitasi adalah gaya tarik-menarik yang terjadi antara semua partikel yang mempunyai massa di alam semesta.</item>
+        <item>Usaha adalah besaran skalar, tetapi dia dapat positif atau negatif.</item>
+        <item>momentum atau pusa adalah besaran yang berhubungan dengan kecepatan dan massa suatu benda.</item>
+        <item>Fluida adalah suatu zat yang bisa mengalami perubahan-perubahan bentuknya secara continue/terus-menerus bila terkena tekanan/gaya geser walaupun relatif kecil atatu bisa juga dikatakan suatu zat yang mengalir, kata fluida mencakup zat cair, gas, air, dan udara karena zat-zat ini dapat mengalir.</item>
+        <item>Bunyi atau suara adalah pemampatan mekanis atau gelombang longitudinal yang merambat melalui medium.</item>
+        <item>Suhu adalah besaran yang menyatakan derajat panas dingin suatu benda.</item>
+        <item>Listrik statis adalah ketidakseimbangan muatan listrik dalam atau pada permukaan benda.</item>
     </string-array>
     <array name="materikelas10">
         <item>@drawable/besaransatuan</item>
@@ -81,17 +79,15 @@
         <item>Termodinamika</item>
     </string-array>
     <string-array name="desc_kelas11">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
-        </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
+        <item>kinematika adalah cabang dari mekanika klasik yang membahas gerak benda dan sistem benda tanpa mempersoalkan gaya penyebab gerakan.</item>
+        <item>Gravitasi adalah gaya tarik-menarik yang terjadi antara semua partikel yang mempunyai massa di alam semesta.</item>
+        <item>elastisitas adalah perbandingan perubahan proporsional dari sebuah variabel dengan perubahan variable lainnya. </item>
+        <item>Usaha adalah besaran skalar, tetapi dia dapat positif atau negatif.</item>
+        <item>Momentun Linier adalah massa kali kecepatan linier benda.</item>
+        <item>Dinamika rotasi adalah di mana resultan gaya dapat menyebababkan gerak translasi (gerak lurus) dan juga rotasi (berputar terhadap suatu poros tertentu).</item>
+        <item>Mekanika Fluida adalah cabang dari ilmu fisika yang mempelajari mengenai zat</item>
+        <item>Teori Kinetik (atau teori kinetik pada gas) berupaya menjelaskan sifat-sifat makroscopik gas, seperti tekanan, suhu, atau volume, dengan memperhatikan komposisi molekular mereka dan gerakannya.</item>
+        <item>Termodinamika berhubungan dekat dengan mekanika statistik di mana hubungan termodinamika berasal.</item>
     </string-array>
     <array name="materikelas11">
         <item>@drawable/kinematika</item>
@@ -128,18 +124,16 @@
         <item>Fisika Inti</item>
     </string-array>
     <string-array name="desc_kelas12">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
-        </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Manhattan is the district in New York City</item>
+        <item>Gelombang didefinisikan sebagai getaran yang merambatkan energi dari satu tempat ketempat yang lain, baik melalui medium ataupun tidak.</item>
+        <item>Bunyi adalah suatu bentuk gelombang longitudinal yang merambat secara perapatan dan perenggangan terbentuk oleh partikel zat perantara serta ditimbulkan oleh sumber bunyi yang mengalami getaran.</item>
+        <item>cahaya adalah radiasi elektromagnetik, baik dengan panjang gelombang kasat mata maupun yang tidak. </item>
+        <item>Listrik statis adalah ketidakseimbangan muatan listrik dalam atau pada permukaan benda.</item>
+        <item>Induksi Magnet adalah kuat medan magnet akibat adanya arus listrik yang mengalir dalam konduktor.</item>
+        <item>Imbas elektromagnetik adalah terjadinya arus listrik dalam suatu penghantar akibat adanya perubahan medan magnet.</item>
+        <item>Radiasi benda hitam akan memancarkan cahaya yang dapat dilihat jika suhu objek cukup tinggi.</item>
+        <item>Fisika atom adalah bidang ilmu fisika yang mempelajari atom sebagai sistem terisolasi dari elektron dan inti atom.</item>
+        <item>Relativitas adalah teori yang menyatakan bahwa gerak suatu benda itu relatif atau bergantung pada tinjauan pengamat.</item>
+        <item>Inti atom terdiri dari proton dan netron. Ikatan antar neutron dapat terjadi karena ada defek massa.</item>
     </string-array>
     <array name="materikelas12">
         <item>@drawable/gejalagelombang</item>
