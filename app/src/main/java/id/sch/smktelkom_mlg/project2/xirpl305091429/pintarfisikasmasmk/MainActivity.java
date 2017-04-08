@@ -85,12 +85,14 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(this, Kelas10Activity.class);
             startActivity(intent);
         } else if (id == R.id.nav_kelas11) {
-
+            Intent intent = new Intent(this, Kelas11Activity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_kelas12) {
-
+            Intent intent = new Intent(this, Kelas12Activity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_aboutus) {
-            fragment = new FragmentAboutUs();
-            setTitle("About My Group");
+            Intent intent = new Intent(this, AboutUsActivity.class);
+            startActivity(intent);
         }
 
 

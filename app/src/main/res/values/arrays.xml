@@ -43,17 +43,126 @@
         <item>Manhattan is the district in New York City</item>
         <item>Manhattan is the district in New York City</item>
     </string-array>
-    <array name="places_picture">
+    <array name="materikelas10">
         <item>@drawable/besaransatuan</item>
         <item>@drawable/geraklurus</item>
         <item>@drawable/hukumnewton</item>
-        <item>@drawable/hukumnewton</item>
-        <item>@drawable/geraklurus</item>
+        <item>@drawable/memadugerak</item>
+        <item>@drawable/gravitasi10</item>
         <item>@drawable/usahaenergi</item>
         <item>@drawable/momentumimpulstumbukan</item>
         <item>@drawable/fluida</item>
         <item>@drawable/gelombangbunyi</item>
         <item>@drawable/suhudankalor</item>
         <item>@drawable/listrikstatis</item>
+    </array>
+    <array name="places_picture10">
+        <item>@drawable/besaransatuan</item>
+        <item>@drawable/geraklurus</item>
+        <item>@drawable/hukumnewton</item>
+        <item>@drawable/memadugerak</item>
+        <item>@drawable/gravitasi10</item>
+        <item>@drawable/usahaenergi</item>
+        <item>@drawable/momentumimpulstumbukan</item>
+        <item>@drawable/fluida</item>
+        <item>@drawable/gelombangbunyi</item>
+        <item>@drawable/suhudankalor</item>
+        <item>@drawable/listrikstatis</item>
+    </array>
+    <string-array name="places_kelas11">
+        <item>Kinematika</item>
+        <item>Gravitasi</item>
+        <item>Elastisitas</item>
+        <item>Usaha Dan Energi</item>
+        <item>Momentum Linear Dan Impuls</item>
+        <item>Dinamika Rotasi</item>
+        <item>Mekanika Fluida</item>
+        <item>Kinetik Gas</item>
+        <item>Termodinamika</item>
+    </string-array>
+    <string-array name="desc_kelas11">
+        <item>The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+    </string-array>
+    <array name="materikelas11">
+        <item>@drawable/kinematika</item>
+        <item>@drawable/gravitasi</item>
+        <item>@drawable/elastisitas</item>
+        <item>@drawable/usahadanenergi</item>
+        <item>@drawable/momentumlineardanimpuls</item>
+        <item>@drawable/dinamikarotasi</item>
+        <item>@drawable/mekanikafluida</item>
+        <item>@drawable/teorikinetikgas</item>
+        <item>@drawable/termodinamika</item>
+    </array>
+    <array name="places_picture11">
+        <item>@drawable/kinematika</item>
+        <item>@drawable/gravitasi</item>
+        <item>@drawable/elastisitas</item>
+        <item>@drawable/usahadanenergi</item>
+        <item>@drawable/momentumlineardanimpuls</item>
+        <item>@drawable/dinamikarotasi</item>
+        <item>@drawable/mekanikafluida</item>
+        <item>@drawable/teorikinetikgas</item>
+        <item>@drawable/termodinamika</item>
+    </array>
+    <string-array name="places_kelas12">
+        <item>Gejala Gelombang</item>
+        <item>Bunyi</item>
+        <item>Cahaya</item>
+        <item>Listrik Statis</item>
+        <item>Induksi Magnet</item>
+        <item>Imbas Elektromagnetik</item>
+        <item>Radiasi Benda Hitam</item>
+        <item>Fisika Atom</item>
+        <item>Relativitas</item>
+        <item>Fisika Inti</item>
+    </string-array>
+    <string-array name="desc_kelas12">
+        <item>The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Manhattan is the district in New York City</item>
+    </string-array>
+    <array name="materikelas12">
+        <item>@drawable/gejalagelombang</item>
+        <item>@drawable/bunyi</item>
+        <item>@drawable/cahaya</item>
+        <item>@drawable/listrikstatis12</item>
+        <item>@drawable/induksimagnet12</item>
+        <item>@drawable/imbaselektromagnetik</item>
+        <item>@drawable/radiasibendahitam</item>
+        <item>@drawable/fisikaatom</item>
+        <item>@drawable/relativitas</item>
+        <item>@drawable/fisikainti</item>
+    </array>
+    <array name="places_picture12">
+        <item>@drawable/gejalagelombang</item>
+        <item>@drawable/bunyi</item>
+        <item>@drawable/cahaya</item>
+        <item>@drawable/listrikstatis12</item>
+        <item>@drawable/induksimagnet12</item>
+        <item>@drawable/imbaselektromagnetik</item>
+        <item>@drawable/radiasibendahitam</item>
+        <item>@drawable/fisikaatom</item>
+        <item>@drawable/relativitas</item>
+        <item>@drawable/fisikainti</item>
     </array>
 </resources>

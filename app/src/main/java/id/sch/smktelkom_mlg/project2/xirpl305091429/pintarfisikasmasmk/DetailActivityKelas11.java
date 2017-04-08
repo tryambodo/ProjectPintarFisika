@@ -9,23 +9,24 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageView;
 
-import id.sch.smktelkom_mlg.project2.xirpl305091429.pintarfisikasmasmk.model.Kelas10;
+import id.sch.smktelkom_mlg.project2.xirpl305091429.pintarfisikasmasmk.model.Kelas11;
 import uk.co.senab.photoview.PhotoViewAttacher;
 
-public class DetailActivityKelas10 extends AppCompatActivity {
+public class DetailActivityKelas11 extends AppCompatActivity {
 
     ImageView imgView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail_activity_kelas10);
+        setContentView(R.layout.activity_detail_activity_kelas11);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        Kelas10 kelas10 = (Kelas10) getIntent().getSerializableExtra(Kelas10Activity.KELAS_10);
-        setTitle(kelas10.judul);
-        ImageView deskripsi = (ImageView) findViewById(R.id.place_detail);
-        deskripsi.setImageURI(Uri.parse(kelas10.kelas10));
+        Kelas11 kelas11 = (Kelas11) getIntent().getSerializableExtra(Kelas11Activity.KELAS_11);
+        setTitle(kelas11.judul);
+        ImageView materi = (ImageView) findViewById(R.id.place_detail);
+        materi.setImageURI(Uri.parse(kelas11.kelas11));
 
         imgView = (ImageView) findViewById(R.id.place_detail);
         PhotoViewAttacher photoView = new PhotoViewAttacher(imgView);
